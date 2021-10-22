@@ -40,7 +40,7 @@ public class Employe implements Serializable {
 		
 	//@Column(unique=true)
 	//@Pattern(regex=".+\@.+\..+")
-	private String emailqqqSS;
+	private String emailqq;
 
 	private String password;
 	
